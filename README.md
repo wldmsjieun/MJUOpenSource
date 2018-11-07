@@ -3,5 +3,5 @@
 
 ## 2018-11-07
 **jieun**
-* MJU
+* MJU  
 ffff
